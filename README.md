@@ -1,0 +1,2 @@
+# SrpAngularTemplate
+angular template
